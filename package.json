@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "assert": "^1.4.1",
     "body-parser": "*",
     "express": "*",
     "jasmine-node": "^1.14.5",
